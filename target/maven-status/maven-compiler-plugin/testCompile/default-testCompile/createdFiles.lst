@@ -1,0 +1,4 @@
+org\ram\examples\PowermockFinalMethodTest.class
+org\ram\examples\PowermockStaticMethodTest.class
+org\ram\examples\PowerMockConstructorTest.class
+org\ram\examples\PowermockPrivateMethodTest.class

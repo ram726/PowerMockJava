@@ -1,0 +1,5 @@
+org\ram\examples\ClassWithPrivateMethods.class
+org\ram\examples\ClassWithFinalMethods.class
+org\ram\examples\ClassWithStaticMethod.class
+org\ram\examples\constructor\SimpleClass.class
+org\ram\examples\constructor\PowerMockitoConstructorExample.class
